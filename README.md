@@ -1,9 +1,9 @@
 # Praktikum4-OOP
-#========================
-# Nama  : Amirul Mu'minin
-# NIM   : 312110109
-# Kelas : Ti.21.C2
-#========================
+# ===========================
+# Nama  :  Amirul Mu'minin
+# NIM   :  312110109
+# Kelas :  Ti.21.C2
+# ===========================
 
 
 # Mengimplementasikan java
